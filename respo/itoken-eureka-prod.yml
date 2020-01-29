@@ -1,6 +1,6 @@
 spring:
   application:
-    name: hello-spring-cloud-eureka
+    name: itoken-eureka
   zipkin:
     base-url: http://192.168.113.129:9411
   boot:
