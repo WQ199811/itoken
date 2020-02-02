@@ -31,5 +31,7 @@ management:
       exposure:
         include: health,info
 
-
+feign:
+  hystrix:
+    enable: true
 
