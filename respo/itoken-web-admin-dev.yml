@@ -30,8 +30,8 @@ management:
     web:
       exposure:
         include: health,info
-
 feign:
   hystrix:
-    enable: true
+    enabled: true
+
 

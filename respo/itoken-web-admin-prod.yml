@@ -33,4 +33,4 @@ management:
 
 feign:
   hystrix:
-    enable: true
+    enabled: true
